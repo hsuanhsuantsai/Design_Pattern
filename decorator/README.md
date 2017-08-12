@@ -3,6 +3,6 @@
 * Multiple decorator layers  
 
 ## Usage:  
-javac *.java  
-java Demo
+* How to compile: javac *.java  
+* How to run:     java Demo
 
