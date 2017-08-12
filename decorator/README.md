@@ -2,7 +2,7 @@
 * Basic decorator usage
 * Multiple decorator layers  
 
-## Usage:  
+## Usage  
 * How to compile: javac *.java  
 * How to run:     java Demo
 
